@@ -7,9 +7,6 @@ export const Presenta = () => {
 
     const fraseFeliz = (e) =>{
         console.log("Estoy Feliz");
-        if(e){
-            
-        }
 
     }
 
